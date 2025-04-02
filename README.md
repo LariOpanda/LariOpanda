@@ -2,7 +2,7 @@
 
 ### Oi. Eu sou a Larissa! 💜 ☕ 🍵 🎼 🎧
 
-[![Blog] (https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://espressopanda.com.br/)
+[![Blog] (https://img.shields.io/website-up-down-green-red/http/espressopanda.com.br)](https://espressopanda.com.br/)
 
 [![Blog] ( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
 
