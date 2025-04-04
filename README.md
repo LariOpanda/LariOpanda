@@ -1,14 +1,29 @@
 ## Hi there 👋
 
-### . Eu sou a Larissa! 💜 ☕ 🍵 🎼 🎧
+### . Eu sou a Larissa! 💜 ☕ 🍵 🎼 🎧 ♥️ = ⚡ ☕ 🎼  🐾  🐈  📺  🌻 
+
+Maior atuação profissional foi em áreas administrativas em hospitais, incluindo Recursos Humanos e atividades administrativas.
+Estudante de Analises e Desenvolvimento de Sistemas, busco me desenvolver na área e conhecer a rotina de trabalho.
+
+- 💬 Email: larissamayara.ro@gmail.com 
 
 
-![Meu Avatar](https://github.com/user-attachments/assets/1fb7c3d2-3868-4cf9-be93-b23c1a8e910f)
+<div style="display: inline_block"><br>
+ 
+  <img align="right" alt="lariavatar" src="https://user-images.githubusercontent.com/81597667/151427072-f2df9375-c7cd-4ce1-a97d-d093de9277cb.png">
+  <img width ="50"height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width ="50"height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width ="50"height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
+          
+  
+          
+</div>
+  
+<div> 
+  <a href="https://www.instagram.com/whoislari__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-
-![LariOpanda GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-Estou mudando de trajetória profissional, buscando conhecimento e aprendizado nas linguagens para logo entrar no mercado de trabalho.
+![LariOpanda GitHub stats](https://github-readme-stats.vercel.app/api?username=LariOpanda&show_icons=true&theme=radical)
 
 
 
