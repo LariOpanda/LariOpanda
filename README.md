@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### . Eu sou a Larissa! 💜 ☕ 🍵 🎼 🎧 ♥️ = ⚡ ☕ 🎼  🐾  🐈  📺  🌻 
+### . Eu sou a Larissa! 💜 ☕ 🍵 🎼 🎧 ♥️ ⚡ ☕ 🎼  🐾  🐈  📺  🌻 
 
 🌻 Profissional de Recursos Humanos.
 
