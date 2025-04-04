@@ -2,8 +2,9 @@
 
 ### . Eu sou a Larissa! 💜 ☕ 🍵 🎼 🎧 ♥️ = ⚡ ☕ 🎼  🐾  🐈  📺  🌻 
 
-Maior atuação profissional foi em áreas administrativas em hospitais, incluindo Recursos Humanos e atividades administrativas.
-Estudante de Analises e Desenvolvimento de Sistemas, busco me desenvolver na área e conhecer a rotina de trabalho.
+🌻 Profissional de Recursos Humanos.
+
+🌻 Estudante de Análise e Desenvolvimento de Sistemas.
 
 - 💬 Email: larissamayara.ro@gmail.com 
 
